@@ -1,24 +1,33 @@
 {
   "projects": {
-    "on-headers": {
-      "node": "0.8",
-      "description": "Execute a listener when a response is about to write headers",
-      "maintainer": "dougwilson"
+    "http-utils": {
+      "description": "Low-level HTTP parsing/formatting utilities",
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
+    "mime-db": {
+      "description": "Media Type Database",
+      "maintainer": "jongleberry",
+      "node": "0.8"
     },
     "on-finished": {
       "node": "0.8",
       "description": "Execute a callback when a request closes, finishes, or errors",
       "maintainer": "dougwilson"
     },
+    "on-headers": {
+      "node": "0.8",
+      "description": "Execute a listener when a response is about to write headers",
+      "maintainer": "dougwilson"
+    },
+    "statuses": {
+      "description": "HTTP status utility",
+      "maintainer": "jongleberry"
+    },
     "vary": {
       "node": "0.8",
       "description": "Manipulate the HTTP Vary header",
       "maintainer": "dougwilson"
-    },
-    "mime-db": {
-      "node": "0.8",
-      "description": "Media Type Database",
-      "maintainer": "jongleberry"
     }
   },
   "maintainers": {
@@ -27,7 +36,7 @@
       "avatar": "https://secure.gravatar.com/avatar/c4b64c6e47d970bb0d07a2b9d559be9b?s=50&d=retro"
     },
     "jongleberry": {
-      "packages": 427,
+      "packages": 430,
       "avatar": "https://secure.gravatar.com/avatar/6e33cc0412b61cc01daac23c8989003c?s=50&d=retro"
     },
     "fishrock123": {

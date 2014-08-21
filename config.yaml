@@ -18,6 +18,8 @@ projects:
  - vary
  - mime-db:
      node: 0.6   # you can override stuff from db.json here, i.e. node version
+ - http-utils
+ - statuses
 
 # list of maintainers, this won't be sorted
 maintainers:
