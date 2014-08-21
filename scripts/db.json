@@ -1,10 +1,5 @@
 {
   "projects": {
-    "http-utils": {
-      "description": "Low-level HTTP parsing/formatting utilities",
-      "maintainer": "dougwilson",
-      "node": "0.8"
-    },
     "mime-db": {
       "description": "Media Type Database",
       "maintainer": "jongleberry",

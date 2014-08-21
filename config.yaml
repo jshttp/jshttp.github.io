@@ -13,13 +13,12 @@ keywords:    jshttp, js, http, javascript, node.js, node, express
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
- - on-headers
- - on-finished
- - vary
  - mime-db:
      node: 0.6   # you can override stuff from db.json here, i.e. node version
- - http-utils
+ - on-headers
+ - on-finished
  - statuses
+ - vary
 
 # list of maintainers, this won't be sorted
 maintainers:
