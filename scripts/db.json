@@ -1,9 +1,14 @@
 {
   "projects": {
+    "etag": {
+      "node": "0.8",
+      "description": "Create simple ETags",
+      "maintainer": "dougwilson"
+    },
     "mime-db": {
+      "node": "0.8",
       "description": "Media Type Database",
-      "maintainer": "jongleberry",
-      "node": "0.8"
+      "maintainer": "jongleberry"
     },
     "on-finished": {
       "node": "0.8",
@@ -27,11 +32,11 @@
   },
   "maintainers": {
     "dougwilson": {
-      "packages": 75,
+      "packages": 76,
       "avatar": "https://secure.gravatar.com/avatar/c4b64c6e47d970bb0d07a2b9d559be9b?s=50&d=retro"
     },
     "jongleberry": {
-      "packages": 430,
+      "packages": 435,
       "avatar": "https://secure.gravatar.com/avatar/6e33cc0412b61cc01daac23c8989003c?s=50&d=retro"
     },
     "fishrock123": {

@@ -13,6 +13,7 @@ keywords:    jshttp, js, http, javascript, node.js, node, express
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
+ - etag
  - mime-db:
      node: 0.6   # you can override stuff from db.json here, i.e. node version
  - on-headers
