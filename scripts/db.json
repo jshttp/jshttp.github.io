@@ -3,7 +3,7 @@
     "compressible": {
       "node": "0.8",
       "description": "Compressible Content-Type / mime checking",
-      "maintainer": "dougwilson"
+      "maintainer": "fishrock123"
     },
     "etag": {
       "node": "0.8",
@@ -25,7 +25,7 @@
     },
     "mime-types": {
       "description": "The ultimate javascript content-type utility.",
-      "maintainer": "dougwilson",
+      "maintainer": "jongleberry",
       "node": "0.8"
     },
     "on-finished": {
