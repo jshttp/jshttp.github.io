@@ -16,6 +16,11 @@ projects:
  - etag
  - mime-db:
      node: 0.6   # you can override stuff from db.json here, i.e. node version
+ - mime-types
+ - compressible
+ - methods
+ - fresh
+ - range-parser
  - on-headers
  - on-finished
  - statuses
@@ -49,6 +54,13 @@ maintainers:
    npm:     rlidwka
    twitter: rlidwka
    email:   alex@kocharin.ru
+
+ - name:    TJ Holowaychuk
+   github:  visionmedia
+   npm:     tjholowaychuk
+   twitter: tjholowaychuk
+   email:   tj@vision-media.ca
+   gittip:  visionmedia
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests

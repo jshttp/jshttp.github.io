@@ -1,42 +1,64 @@
 {
   "projects": {
+    "compressible": {
+      "node": "0.8",
+      "description": "Compressible Content-Type / mime checking",
+      "maintainer": "dougwilson"
+    },
     "etag": {
       "node": "0.8",
       "description": "Create simple ETags",
       "maintainer": "dougwilson"
     },
-    "mime-db": {
-      "node": "0.8",
-      "description": "Media Type Database",
+    "fresh": {
+      "description": "HTTP response freshness testing",
+      "maintainer": "tjholowaychuk"
+    },
+    "methods": {
+      "description": "HTTP methods that node supports",
       "maintainer": "jongleberry"
     },
+    "mime-db": {
+      "description": "Media Type Database",
+      "maintainer": "jongleberry",
+      "node": "0.8"
+    },
+    "mime-types": {
+      "description": "The ultimate javascript content-type utility.",
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
     "on-finished": {
-      "node": "0.8",
       "description": "Execute a callback when a request closes, finishes, or errors",
-      "maintainer": "dougwilson"
+      "maintainer": "dougwilson",
+      "node": "0.8"
     },
     "on-headers": {
-      "node": "0.8",
       "description": "Execute a listener when a response is about to write headers",
-      "maintainer": "dougwilson"
+      "maintainer": "dougwilson",
+      "node": "0.8"
+    },
+    "range-parser": {
+      "description": "Range header field string parser",
+      "maintainer": "tjholowaychuk"
     },
     "statuses": {
       "description": "HTTP status utility",
       "maintainer": "jongleberry"
     },
     "vary": {
-      "node": "0.8",
       "description": "Manipulate the HTTP Vary header",
-      "maintainer": "dougwilson"
+      "maintainer": "dougwilson",
+      "node": "0.8"
     }
   },
   "maintainers": {
     "dougwilson": {
-      "packages": 76,
+      "packages": 77,
       "avatar": "https://secure.gravatar.com/avatar/c4b64c6e47d970bb0d07a2b9d559be9b?s=50&d=retro"
     },
     "jongleberry": {
-      "packages": 435,
+      "packages": 436,
       "avatar": "https://secure.gravatar.com/avatar/6e33cc0412b61cc01daac23c8989003c?s=50&d=retro"
     },
     "fishrock123": {
@@ -46,6 +68,9 @@
     "rlidwka": {
       "packages": 13,
       "avatar": "https://secure.gravatar.com/avatar/a5a236ba477ee98908600c40cda74f4a?s=50&d=retro"
+    },
+    "tjholowaychuk": {
+      "packages": 546
     }
   }
 }
