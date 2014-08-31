@@ -16,8 +16,10 @@ projects:
  - etag
  - mime-db:
      node: 0.6   # you can override stuff from db.json here, i.e. node version
- - mime-types
- - compressible
+ - mime-types:
+     maintainer: jongleberry
+ - compressible:
+     maintainer: fishrock123
  - methods
  - fresh
  - range-parser
