@@ -14,6 +14,11 @@
       "description": "HTTP response freshness testing",
       "maintainer": "tjholowaychuk"
     },
+    "http-assert": {
+      "node": "0.10",
+      "description": "assert with status codes",
+      "maintainer": "eivifj"
+    },
     "methods": {
       "description": "HTTP methods that node supports",
       "maintainer": "jongleberry"
@@ -47,9 +52,9 @@
       "maintainer": "jongleberry"
     },
     "vary": {
+      "node": "0.8",
       "description": "Manipulate the HTTP Vary header",
-      "maintainer": "dougwilson",
-      "node": "0.8"
+      "maintainer": "dougwilson"
     }
   },
   "maintainers": {
@@ -67,6 +72,9 @@
     },
     "tjholowaychuk": {
       "packages": 546
+    },
+    "eivifj": {
+      "packages": 47
     }
   }
 }

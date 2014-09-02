@@ -14,6 +14,7 @@ keywords:    jshttp, js, http, javascript, node.js, node, express
 # every package is either string or object
 projects:
  - etag
+ - http-assert
  - mime-db:
      node: 0.6   # you can override stuff from db.json here, i.e. node version
  - mime-types:
@@ -67,6 +68,11 @@ maintainers:
    twitter: tjholowaychuk
    email:   tj@vision-media.ca
    gittip:  visionmedia
+
+ - name:    Eivind Fjeldstad
+   github:  eivindfjeldstad
+   npm:     eivifj
+   email:   eivind.fjeldstad@gmail.com
 
 # this determines what info will be fetched with `make db`;
 # you can comment out stuff to reduce number of http requests
