@@ -25,6 +25,7 @@
       "maintainer": "eivifj"
     },
     "methods": {
+      "node": "0.8",
       "description": "HTTP methods that node supports",
       "maintainer": "jongleberry"
     },
