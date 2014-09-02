@@ -13,6 +13,8 @@ keywords:    jshttp, js, http, javascript, node.js, node, express
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
+ - accepts
+ - type-is
  - etag
  - http-assert
  - mime-db:

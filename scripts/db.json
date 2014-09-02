@@ -1,5 +1,10 @@
 {
   "projects": {
+    "accepts": {
+      "node": "0.8",
+      "description": "Higher-level content negotiation",
+      "maintainer": "jongleberry"
+    },
     "compressible": {
       "node": "0.8",
       "description": "Compressible Content-Type / mime checking",
@@ -15,7 +20,7 @@
       "maintainer": "tjholowaychuk"
     },
     "http-assert": {
-      "node": "0.10",
+      "node": "0.8",
       "description": "assert with status codes",
       "maintainer": "eivifj"
     },
@@ -31,7 +36,7 @@
     "mime-types": {
       "node": "0.8",
       "description": "The ultimate javascript content-type utility.",
-      "maintainer": "dougwilson"
+      "maintainer": "jongleberry"
     },
     "on-finished": {
       "node": "0.8",
@@ -49,6 +54,11 @@
     },
     "statuses": {
       "description": "HTTP status utility",
+      "maintainer": "jongleberry"
+    },
+    "type-is": {
+      "node": "0.8",
+      "description": "Infer the content-type of a request.",
       "maintainer": "jongleberry"
     },
     "vary": {
