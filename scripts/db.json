@@ -8,7 +8,7 @@
     "compressible": {
       "node": "0.8",
       "description": "Compressible Content-Type / mime checking",
-      "maintainer": "dougwilson"
+      "maintainer": "fishrock123"
     },
     "etag": {
       "node": "0.8",
@@ -25,7 +25,7 @@
       "maintainer": "eivifj"
     },
     "methods": {
-      "node": "0.8",
+      "node": "0.6",
       "description": "HTTP methods that node supports",
       "maintainer": "jongleberry"
     },
