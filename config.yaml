@@ -17,8 +17,7 @@ projects:
  - type-is
  - etag
  - http-assert
- - mime-db:
-     node: 0.6   # you can override stuff from db.json here, i.e. node version
+ - mime-db
  - mime-types:
      maintainer: jongleberry
  - compressible:

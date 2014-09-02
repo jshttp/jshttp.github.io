@@ -30,7 +30,7 @@
       "maintainer": "jongleberry"
     },
     "mime-db": {
-      "node": "0.8",
+      "node": "0.6",
       "description": "Media Type Database",
       "maintainer": "jongleberry"
     },
