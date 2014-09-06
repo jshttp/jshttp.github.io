@@ -14,6 +14,7 @@ keywords:    jshttp, js, http, javascript, node.js, node, express
 # every package is either string or object
 projects:
  - accepts
+ - basic-auth
  - type-is
  - etag
  - http-assert

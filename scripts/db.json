@@ -5,6 +5,11 @@
       "description": "Higher-level content negotiation",
       "maintainer": "jongleberry"
     },
+    "basic-auth": {
+      "node": "0.8",
+      "description": "generic basic auth parser",
+      "maintainer": "jongleberry"
+    },
     "compressible": {
       "node": "0.8",
       "description": "Compressible Content-Type / mime checking",
