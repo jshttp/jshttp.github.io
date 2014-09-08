@@ -19,6 +19,7 @@ projects:
  - media-typer
  - mime-types:
      maintainer: jongleberry
+ - negotiator
  - type-is
  - etag
  - http-assert
@@ -72,6 +73,11 @@ maintainers:
    twitter: tjholowaychuk
    email:   tj@vision-media.ca
    gittip:  visionmedia
+
+ - name:    Federico Romero
+   github:  federomero
+   npm:     federomero
+   email:   hi@federomero.uy
 
  - name:    Eivind Fjeldstad
    github:  eivindfjeldstad

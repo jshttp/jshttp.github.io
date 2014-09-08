@@ -9,6 +9,9 @@
     "eivifj": {
       "packages": 47
     },
+    "federomero": {
+      "packages": 6
+    },
     "fishrock123": {
       "packages": 49
     },
@@ -71,6 +74,11 @@
     "mime-types": {
       "description": "The ultimate javascript content-type utility.",
       "maintainer": "dougwilson",
+      "node": "0.6"
+    },
+    "negotiator": {
+      "description": "HTTP content negotiation",
+      "maintainer": "federomero",
       "node": "0.6"
     },
     "on-finished": {
