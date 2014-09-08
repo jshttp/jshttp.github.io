@@ -45,8 +45,8 @@
     },
     "fresh": {
       "description": "HTTP response freshness testing",
-      "maintainer": "jongleberry",
-      "node": "0.8"
+      "maintainer": "dougwilson",
+      "node": "0.6"
     },
     "http-assert": {
       "description": "assert with status codes",
