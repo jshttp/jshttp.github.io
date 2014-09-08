@@ -16,6 +16,7 @@ projects:
  - accepts
  - basic-auth:
      maintainer: dougwilson
+ - media-typer
  - type-is
  - etag
  - http-assert

@@ -53,6 +53,11 @@
       "maintainer": "eivifj",
       "node": "0.8"
     },
+    "media-typer": {
+      "description": "Simple RFC 6838 media type parser and formatter",
+      "maintainer": "dougwilson",
+      "node": "0.6"
+    },
     "methods": {
       "description": "HTTP methods that node supports",
       "maintainer": "jongleberry",
