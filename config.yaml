@@ -23,6 +23,7 @@ projects:
  - type-is
  - etag
  - http-assert
+ - http-errors
  - mime-db
  - compressible:
      maintainer: fishrock123
