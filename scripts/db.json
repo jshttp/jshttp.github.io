@@ -98,7 +98,8 @@
     },
     "statuses": {
       "description": "HTTP status utility",
-      "maintainer": "jongleberry"
+      "maintainer": "jongleberry",
+      "node": "0.6"
     },
     "type-is": {
       "description": "Infer the content-type of a request.",
