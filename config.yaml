@@ -17,12 +17,12 @@ projects:
  - basic-auth:
      maintainer: dougwilson
  - media-typer
+ - mime-types:
+     maintainer: jongleberry
  - type-is
  - etag
  - http-assert
  - mime-db
- - mime-types:
-     maintainer: jongleberry
  - compressible:
      maintainer: fishrock123
  - methods

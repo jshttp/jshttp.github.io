@@ -70,8 +70,8 @@
     },
     "mime-types": {
       "description": "The ultimate javascript content-type utility.",
-      "maintainer": "jongleberry",
-      "node": "0.8"
+      "maintainer": "dougwilson",
+      "node": "0.6"
     },
     "on-finished": {
       "description": "Execute a callback when a request closes, finishes, or errors",
