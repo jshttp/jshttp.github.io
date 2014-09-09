@@ -98,8 +98,8 @@
     },
     "range-parser": {
       "description": "Range header field string parser",
-      "maintainer": "jongleberry",
-      "node": "0.8"
+      "maintainer": "dougwilson",
+      "node": "0.6"
     },
     "statuses": {
       "description": "HTTP status utility",
