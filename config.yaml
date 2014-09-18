@@ -20,6 +20,7 @@ projects:
  - mime-types:
      maintainer: jongleberry
  - negotiator
+ - proxy-addr
  - type-is
  - etag
  - http-assert
