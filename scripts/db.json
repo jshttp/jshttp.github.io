@@ -59,7 +59,7 @@
     "http-errors": {
       "description": "Create HTTP error objects",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.6"
     },
     "media-typer": {
       "description": "Simple RFC 6838 media type parser and formatter",
@@ -98,8 +98,13 @@
     },
     "range-parser": {
       "description": "Range header field string parser",
+      "maintainer": "dougwilson",
+      "node": "0.6"
+    },
+    "spdy-push": {
+      "description": "SPDY Push helper",
       "maintainer": "jongleberry",
-      "node": "0.8"
+      "node": "0.10"
     },
     "statuses": {
       "description": "HTTP status utility",

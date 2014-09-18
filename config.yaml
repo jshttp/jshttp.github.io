@@ -34,6 +34,7 @@ projects:
  - on-finished
  - statuses
  - vary
+ - spdy-push
 
 # list of maintainers, this won't be sorted
 maintainers:
