@@ -1,0 +1,103 @@
+# organization name, it's used to get github repo url, also in page title
+name: jshttp
+
+# badge style, can be "flat", "flat-square" or ""
+# see http://shields.io/ for details
+badge_style: flat-square
+
+# meta headers in html
+<<<<<<< HEAD
+title:       jshttp
+description: Low-Level JavaScript HTTP-related Modules
+keywords:    jshttp, js, http, javascript, node.js, node, express
+=======
+title:       BadgeBoard
+description: project status at a glance
+keywords:    badgeboard, repo-utils
+>>>>>>> dab71690a04742984f4450d2a176a3420a82ba83
+
+# list of projects, this will be sorted by name;
+# every package is either string or object
+projects:
+ - accepts
+ - basic-auth:
+     maintainer: dougwilson
+ - media-typer
+ - mime-types:
+     maintainer: jongleberry
+ - negotiator
+ - type-is
+ - etag
+ - http-assert
+ - http-errors
+ - mime-db
+ - compressible:
+     maintainer: fishrock123
+ - methods
+ - fresh
+ - range-parser
+ - on-headers
+ - on-finished
+ - statuses
+ - vary
+ - spdy-push
+
+# list of maintainers, this won't be sorted
+maintainers:
+ - name:    Doug Wilson
+   github:  dougwilson   # github account, required: we link to it
+   npm:     dougwilson   # npm account, required to determine lead maintainer
+   twitter: blipsofadoug # twitter account, optional
+   gittip:  dougwilson   # gittub badge, optional
+   email:   doug@somethingdoug.com
+
+ - name:    Jonathan Ong
+   github:  jonathanong
+   npm:     jongleberry
+   twitter: jongleberry
+   gittip:  jonathanong
+   email:   me@jongleberry.com
+
+   # if gravatar is attached to an email different from specified above,
+   # add md5 of it here:
+   avatar:  6e33cc0412b61cc01daac23c8989003c
+
+ - name:    Jeremiah Senkpiel
+   github:  fishrock123
+   npm:     fishrock123
+   twitter: fishrock123
+   gittip:  Fishrock123
+   email:   fishrock123@rocketmail.com
+
+ - name:    Alex Kocharin
+   github:  rlidwka
+   npm:     rlidwka
+   twitter: rlidwka
+   email:   alex@kocharin.ru
+
+ - name:    TJ Holowaychuk
+   github:  visionmedia
+   npm:     tjholowaychuk
+   twitter: tjholowaychuk
+   email:   tj@vision-media.ca
+   gittip:  visionmedia
+
+ - name:    Federico Romero
+   github:  federomero
+   npm:     federomero
+   email:   hi@federomero.uy
+
+ - name:    Eivind Fjeldstad
+   github:  eivindfjeldstad
+   npm:     eivifj
+   email:   eivind.fjeldstad@gmail.com
+
+# this determines what info will be fetched with `make db`;
+# you can comment out stuff to reduce number of http requests
+db.json:
+  projects:
+   - node        # node version, it's the lowest version from .travis.yml
+   - description # package description from package.json (from npm registry)
+   - maintainer  # maintainer npm account (= _npmUser of last published ver)
+  maintainers:
+   - packages    # amount of packages this npm user has
