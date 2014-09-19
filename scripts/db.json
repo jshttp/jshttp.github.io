@@ -41,6 +41,11 @@
       "maintainer": "fishrock123",
       "node": "0.8"
     },
+    "content-disposition": {
+      "description": "Create an attachment Content-Disposition header",
+      "maintainer": "dougwilson",
+      "node": "0.6"
+    },
     "etag": {
       "description": "Create simple ETags",
       "maintainer": "dougwilson",
