@@ -51,6 +51,11 @@
       "maintainer": "dougwilson",
       "node": "0.6"
     },
+    "forwarded": {
+      "description": "Parse HTTP X-Forwarded-For header",
+      "maintainer": "dougwilson",
+      "node": "0.6"
+    },
     "fresh": {
       "description": "HTTP response freshness testing",
       "maintainer": "dougwilson",
