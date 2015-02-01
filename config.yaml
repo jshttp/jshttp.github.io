@@ -18,6 +18,7 @@ projects:
      maintainer: dougwilson
  - content-disposition
  - forwarded
+ - cookie
  - media-typer
  - mime-types:
      maintainer: jongleberry
