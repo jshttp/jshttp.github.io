@@ -4,7 +4,7 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "dougwilson": {
-      "packages": 77
+      "packages": 91
     },
     "eivifj": {
       "packages": 47
@@ -13,22 +13,22 @@
       "packages": 6
     },
     "fishrock123": {
-      "packages": 49
+      "packages": 50
     },
     "jongleberry": {
-      "packages": 436
+      "packages": 495
     },
     "rlidwka": {
-      "packages": 13
+      "packages": 15
     },
     "tjholowaychuk": {
-      "packages": 546
+      "packages": 542
     }
   },
   "projects": {
     "accepts": {
       "description": "Higher-level content negotiation",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.8"
     },
     "basic-auth": {
@@ -38,11 +38,11 @@
     },
     "compressible": {
       "description": "Compressible Content-Type / mime checking",
-      "maintainer": "fishrock123",
+      "maintainer": "dougwilson",
       "node": "0.8"
     },
     "content-disposition": {
-      "description": "Create an attachment Content-Disposition header",
+      "description": "Create and parse Content-Disposition header",
       "maintainer": "dougwilson",
       "node": "0.6"
     },
@@ -63,12 +63,12 @@
     },
     "http-assert": {
       "description": "assert with status codes",
-      "maintainer": "eivifj",
+      "maintainer": "jongleberry",
       "node": "0.8"
     },
     "http-errors": {
       "description": "Create HTTP error objects",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.6"
     },
     "media-typer": {
@@ -78,12 +78,12 @@
     },
     "methods": {
       "description": "HTTP methods that node supports",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.6"
     },
     "mime-db": {
       "description": "Media Type Database",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.6"
     },
     "mime-types": {
@@ -93,7 +93,7 @@
     },
     "negotiator": {
       "description": "HTTP content negotiation",
-      "maintainer": "federomero",
+      "maintainer": "dougwilson",
       "node": "0.6"
     },
     "on-finished": {
@@ -123,7 +123,7 @@
     },
     "statuses": {
       "description": "HTTP status utility",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.6"
     },
     "type-is": {
