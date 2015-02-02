@@ -46,6 +46,11 @@
       "maintainer": "dougwilson",
       "node": "0.6"
     },
+    "content-type": {
+      "description": "Create and parse HTTP Content-Type header",
+      "maintainer": "dougwilson",
+      "node": "0.6"
+    },
     "etag": {
       "description": "Create simple ETags",
       "maintainer": "dougwilson",

@@ -17,6 +17,7 @@ projects:
  - basic-auth:
      maintainer: dougwilson
  - content-disposition
+ - content-type
  - forwarded
  - media-typer
  - mime-types:
