@@ -38,7 +38,7 @@ require('co')(function *() {
     return ret
   }, 2)
   require('fs').writeFileSync(__dirname + '/db.json', json)
-})()
+}).then()
 
 
 //
@@ -65,7 +65,7 @@ function *getUserInfo(user) {
 }
 
 function *getOwnedPackages(user) {
-  var data = yield get('http://isaacs.iriscouch.com/'
+  var data = yield get('https://skimdb.npmjs.com/'
                      + 'registry/_design/app/_view/browseAuthors'
                      + '?startkey=' + escapeJSON([user])
                      + '&endkey=' + escapeJSON([user, {}])
