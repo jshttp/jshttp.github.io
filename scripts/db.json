@@ -51,6 +51,11 @@
       "maintainer": "dougwilson",
       "node": "0.6"
     },
+    "cookie": {
+      "description": "cookie parsing and serialization",
+      "maintainer": "dougwilson",
+      "node": "0.6"
+    },
     "etag": {
       "description": "Create simple ETags",
       "maintainer": "dougwilson",
