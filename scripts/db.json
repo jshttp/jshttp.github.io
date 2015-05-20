@@ -4,10 +4,10 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "dougwilson": {
-      "packages": 91
+      "packages": 95
     },
     "eivifj": {
-      "packages": 47
+      "packages": 48
     },
     "federomero": {
       "packages": 6
@@ -16,24 +16,24 @@
       "packages": 50
     },
     "jongleberry": {
-      "packages": 495
+      "packages": 527
     },
     "rlidwka": {
       "packages": 15
     },
     "tjholowaychuk": {
-      "packages": 542
+      "packages": 541
     }
   },
   "projects": {
     "accepts": {
       "description": "Higher-level content negotiation",
       "maintainer": "dougwilson",
-      "node": "0.8"
+      "node": "0.6"
     },
     "basic-auth": {
-      "description": "generic basic auth parser",
-      "maintainer": "jonathanong",
+      "description": "node.js basic auth parser",
+      "maintainer": "jongleberry",
       "node": "0.8"
     },
     "compressible": {
