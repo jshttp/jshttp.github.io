@@ -20,6 +20,7 @@ projects:
  - content-type
  - cookie
  - forwarded
+ - cookie
  - media-typer
  - mime-types:
      maintainer: jongleberry
