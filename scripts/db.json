@@ -4,25 +4,25 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "dougwilson": {
-      "packages": 95
+      "packages": 105
     },
     "eivifj": {
       "packages": 48
     },
     "federomero": {
-      "packages": 6
+      "packages": 3
     },
     "fishrock123": {
-      "packages": 50
+      "packages": 44
     },
     "jongleberry": {
-      "packages": 527
+      "packages": 560
     },
     "rlidwka": {
       "packages": 15
     },
     "tjholowaychuk": {
-      "packages": 541
+      "packages": 537
     }
   },
   "projects": {
@@ -33,13 +33,13 @@
     },
     "basic-auth": {
       "description": "node.js basic auth parser",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.8"
     },
     "compressible": {
       "description": "Compressible Content-Type / mime checking",
       "maintainer": "dougwilson",
-      "node": "0.8"
+      "node": "0.6"
     },
     "content-disposition": {
       "description": "Create and parse Content-Disposition header",
@@ -52,12 +52,12 @@
       "node": "0.6"
     },
     "cookie": {
-      "description": "cookie parsing and serialization",
+      "description": "HTTP server cookie parsing and serialization",
       "maintainer": "dougwilson",
       "node": "0.6"
     },
     "etag": {
-      "description": "Create simple ETags",
+      "description": "Create simple HTTP ETags",
       "maintainer": "dougwilson",
       "node": "0.6"
     },
@@ -69,11 +69,11 @@
     "fresh": {
       "description": "HTTP response freshness testing",
       "maintainer": "dougwilson",
-      "node": "0.6"
+      "node": "0.8"
     },
     "http-assert": {
       "description": "assert with status codes",
-      "maintainer": "jongleberry",
+      "maintainer": "dougwilson",
       "node": "0.8"
     },
     "http-errors": {
@@ -84,7 +84,7 @@
     "media-typer": {
       "description": "Simple RFC 6838 media type parser and formatter",
       "maintainer": "dougwilson",
-      "node": "0.6"
+      "node": "0.8"
     },
     "methods": {
       "description": "HTTP methods that node supports",
@@ -119,7 +119,7 @@
     "proxy-addr": {
       "description": "Determine address of proxied request",
       "maintainer": "dougwilson",
-      "node": "0.6"
+      "node": "0.10"
     },
     "range-parser": {
       "description": "Range header field string parser",
