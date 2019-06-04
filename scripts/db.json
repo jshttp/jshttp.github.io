@@ -4,13 +4,13 @@
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
     "dougwilson": {
-      "packages": 105
+      "packages": 104
     },
     "eivifj": {
       "packages": 48
     },
     "federomero": {
-      "packages": 3
+      "packages": 2
     },
     "fishrock123": {
       "packages": 45
@@ -22,7 +22,7 @@
       "packages": 15
     },
     "tjholowaychuk": {
-      "packages": 537
+      "packages": 533
     }
   },
   "projects": {
@@ -134,7 +134,7 @@
     "statuses": {
       "description": "HTTP status utility",
       "maintainer": "dougwilson",
-      "node": "0.6"
+      "node": "0.8"
     },
     "type-is": {
       "description": "Infer the content-type of a request.",
